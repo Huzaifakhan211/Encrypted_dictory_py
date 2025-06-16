@@ -62,4 +62,6 @@ secure-diary/
 * Search functionality
 * Backup or cloud sync
 * Dark mode or theme customization
+![image](https://github.com/user-attachments/assets/726f6766-b246-4e60-a3a3-040432b25d55)
+
 
