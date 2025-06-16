@@ -1,5 +1,4 @@
 # Encrypted_dictory_py
-Absolutely! Here's a more natural, **AI-free-sounding** version of your `README.md` — professional, clean, and developer-friendly:
 
 # Secure Personal Diary (Python, Encrypted, GUI)
 
@@ -33,22 +32,17 @@ secure-diary/
 
 ## How to Run
 
-1. Clone this repository:
-    bash
-   git clone https://github.com/yourusername/secure-diary.git
-   cd secure-diary
-
-2. Install required packages:
+1. Install required packages:
 
    pip install cryptography
    
-3. Run the application:
+2. Run the application:
 
    python main.py
 
-4. On the first run, you will be asked to set a password. This will generate the required key and password files.
+3. On the first run, you will be asked to set a password. This will generate the required key and password files.
 
-5. After logging in, you can add entries by selecting a category, setting a date, and writing your note.
+4. After logging in, you can add entries by selecting a category, setting a date, and writing your note.
 
 ## Categories Included
 
