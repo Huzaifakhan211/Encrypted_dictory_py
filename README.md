@@ -62,6 +62,15 @@ secure-diary/
 * Search functionality
 * Backup or cloud sync
 * Dark mode or theme customization
+![image](https://github.com/user-attachments/assets/4a8d9af6-3cfc-42f1-b969-1a69506afbcb)
 ![image](https://github.com/user-attachments/assets/726f6766-b246-4e60-a3a3-040432b25d55)
+![image](https://github.com/user-attachments/assets/5d5a5df1-ef0b-41af-9f4f-f2ce7a50eea8)
+![image](https://github.com/user-attachments/assets/0b42005d-5baf-4a0d-aafc-7e37ac108da4)
+![image](https://github.com/user-attachments/assets/bfcce205-2488-4ee4-be15-9f593c678f44)
+![image](https://github.com/user-attachments/assets/8dbfc59f-16e5-4034-b0bf-a4fdb28a5aa5)
+
+
+
+
 
 
