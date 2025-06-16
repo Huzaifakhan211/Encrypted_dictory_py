@@ -1,5 +1,4 @@
 # Encrypted_dictory_py
-Absolutely! Here's a more natural, **AI-free-sounding** version of your `README.md` — professional, clean, and developer-friendly:
 
 # Secure Personal Diary (Python, Encrypted, GUI)
 
